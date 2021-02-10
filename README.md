@@ -17,7 +17,7 @@
   
 ## 🛠 사용 기술
 | Front-End | Back-End | DataBase | Tool |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | HTML5<br>CSS3<br>ES6 | Mybatis<br>Spring | MySQL | Git<br>Trello<br>Kakao Oven<br>Photoshop <br>Spring Boot |
 
 ## 📅 개발 기간
