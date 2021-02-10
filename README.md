@@ -1,6 +1,6 @@
 # AllBareun
 <p align="center">
-<img align="center" style="margin:0 auto;" src="https://user-images.githubusercontent.com/65852909/103152129-35686f00-47c8-11eb-82b4-a27dfd80ff37.png"/>
+<img align="center" style="margin:0 auto;" src="https://github.com/Joong-eon/AllBareun/blob/master/src/main/resources/static/images/all.png"/>
   
   <h2 align="center">TEUM</h2>
 </p>
