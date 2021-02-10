@@ -21,13 +21,13 @@
 | HTML5<br>CSS3<br>ES6 | Mybatis<br>Spring | MySQL | Git<br>Trello<br>Kakao Oven<br>Photoshop <br>Spring Boot |
 
 ## 📅 개발 기간
-![프로젝트일정(틈)](https://www.notion.so/flightlogan/579ba31376984ec4a587df426ff24c59?v=fb6be1007c944b9c83bcf2a821967057)
+![프로젝트일정(올바른생각)](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/2%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%BC%EC%A0%95.png)
 
 ## 📊 E-R Diagram
-![E-R Diagram](https://user-images.githubusercontent.com/65852909/103152482-c12fca80-47cb-11eb-8748-09a80007ecdf.png)
+![E-R Diagram](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/ERwin.png)
 
 ## 📖 Issues 관리
-<img width="1516" alt="스크린샷 2020-12-26 오후 10 51 42" src="https://user-images.githubusercontent.com/65852909/103152604-00aae680-47cd-11eb-9923-6960d38b75a1.png">
+<img width="1516" src="https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC.png">
 
 ## 🎞 실행 화면
 
