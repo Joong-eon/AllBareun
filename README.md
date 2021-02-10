@@ -6,17 +6,22 @@
 </p>
 
 ## 📑 프로젝트 소개
-  - [x] 기존의 숙박 플랫폼 서비스는 숙박업체가 정해놓은 가격에 맞춰 소비자가 예약하는 시스템입니다.  
-    그래서 소비자는 원하는 가격에 예약을 할 수 있고 숙박업체는 공실을 최소화할 수 있는 Win-Win 서비스를 구현하였습니다.
-  - [x] 라이브러리와 프레임워크의 필요성을 체감하기 위해 json-simple, jdbc를 제외한 어떠한 라이브러리와 프레임워크도 사용하지 않았습니다.
+  - [x] 새해맞이 목표 달성 사이트
+    
+    탄생 배경
+      - 신년을 맞아 새로운 목표들을 세우게 되나 번번이 1달을 못 채우고 끝나는 경우가 많다.
+      - 이에 목표 달성 과정을 도와줄 수 있는 사이트가 있으면 좋겠다 생각하게 되어 프로젝트를 시작했다.
+      
+  - [x] 1차 프로젝트와는 다르게 수업시간에 배운 한에서 라이브러리와 프레임워크를 사용하려 backend에서 Spring Boot를 최대한 활용하였습니다.
+
   
 ## 🛠 사용 기술
-| Front-End | Back-End | DataBase | Server | Tool |
+| Front-End | Back-End | DataBase | Tool |
 | --- | --- | --- | --- | --- |
-| HTML5<br>CSS3<br>JavaScript | Servlet & JSP | Oracle | Apache Tomcat | Git<br>Trello<br>Adobe XD<br>Photoshop |
+| HTML5<br>CSS3<br>ES6 | Mybatis<br>Spring | MySQL | Git<br>Trello<br>Kakao Oven<br>Photoshop <br>Spring Boot |
 
 ## 📅 개발 기간
-![프로젝트일정(틈)](https://user-images.githubusercontent.com/65852909/103269952-44366800-49fa-11eb-9bb9-7e3f6c3d4e8a.png)
+![프로젝트일정(틈)](https://www.notion.so/flightlogan/579ba31376984ec4a587df426ff24c59?v=fb6be1007c944b9c83bcf2a821967057)
 
 ## 📊 E-R Diagram
 ![E-R Diagram](https://user-images.githubusercontent.com/65852909/103152482-c12fca80-47cb-11eb-8748-09a80007ecdf.png)
