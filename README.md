@@ -77,25 +77,28 @@
 
 ✅ [12] 기타 : 이외에도 공지사항관리, 1:1문의, 관리자페이지(숙소등록관리,회원관리,이벤트&공지사항관리,골든타임관리) 기능도 구현 하였습니다.
 ## 💻 개발자
-| <img src="https://avatars3.githubusercontent.com/u/65852909?s=400&u=8f18e9a8e35f4ea10e050c12d56c9c971e02eb4d&v=4" width="55" height="55"><br>[김병준](https://github.com/junjun-creator) | <img src="https://avatars2.githubusercontent.com/u/64012038?s=400&u=c1bf92ce021077a9d78d8418315c938e797fb238&v=4" width="55" height="55"><br>[신중언](https://github.com/Joong-eon) | <img src="https://avatars1.githubusercontent.com/u/40957996?s=400&u=df7fd20ae5c0afb399738e9b00fb770bea02d4b3&v=4" width="55" height="55"><br>[조재희](https://github.com/cbw1030) | <img src="https://avatars3.githubusercontent.com/u/73815879?s=400&v=4" width="55" height="55"><br>[박수현](https://github.com/suhyeon7846) |
+| <img src="https://avatars2.githubusercontent.com/u/64012038?s=400&u=c1bf92ce021077a9d78d8418315c938e797fb238&v=4" width="55" height="55"><br>[신중언](https://github.com/Joong-eon) | <img src="https://avatars.githubusercontent.com/u/35316595?s=400&v=4" width="55" height="55"><br>[구본율](https://github.com/cyon13) | <img src="https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4" width="55" height="55"><br>[김현지](https://github.com/iamhyunji) | <img src="https://avatars.githubusercontent.com/u/54495841?s=400&v=4" width="55" height="55"><br>[임혜영](https://github.com/HYEYOUNGLIM) |
 | --- | --- | --- | --- |
 
 ## Contribution
   - 프로젝트 기획
   - [x] Front-end
-    - 사용자 페이지
-      - 회원 마이페이지 : 숙소 리스트 및 디테일 페이지
-      - 기업 마이페이지 : 숙소 등록페이지
-    - 관리자 페이지
-      - 승인된숙소와 미승인 숙소 관리 페이지
+      -인덱스 페이지
+      -로그인 페이지
+      -회원가입 페이지
+      -아이디 찾기 페이지
+      -비밀번호 찾기 페이지
   - [x] Back-end
-    - 관리자 페이지
-      - 승인된숙소와 미승인 숙소 관리 페이지
+      -인덱스 페이지
+      -로그인 페이지
+      -회원가입 페이지
+      -아이디 찾기 페이지
+      -비밀번호 찾기 페이지
+      
 ## 개발에 어려웠던 점
-  - [x] 기획부터 모든 개발 프로세스를 직접 수행하는 것이 쉽지 않았다.
-  - [x] 개발이 처음이라 수업을 듣고 바로 적용하기엔 아직 실력이 부족했다.
+  - [x] 스프링 부트가 로그인세션을 알아서 해주니 다른 페이지에서 세션을 주고 받기가 쉽게 생각나지 않았다.
 ## 느낀점
-  - [x] 팀프로젝트를 진행하며, 협업도구의 중요성을 깨달았다.
-  - [x] 모든 것이 처음이라 신기하고, 모든게 새로웠지만 아직 다른 팀원들에 비해 부족함을 많이 느껴 좌절을 많이 했지만 팀프로젝트라 팀원들의 도움덕분에 많은 힘을 얻을 수 있었다.
+  - [x] 스프링 부트를 사용하여 로그인을 구현해봤는데, 세션기능이 편리하다는걸 깨달았다.
+  - [x] 배운걸 직접 사용하지 않으면 배우지 않은 것과 같다는 생각이 들었다.
 ## 💼Download
-  - git clone https://github.com/junjun-creator/AccommodationWeb.git
+  - git clone https://github.com/cyon13/AllBareun
