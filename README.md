@@ -45,7 +45,7 @@
 
 ✅ [4] PASSWORD 수정 : 여행자가 원하는 장소, 일시, 인원, 가격 등을 제안할 경우, 해당 지역에 있는 모든 숙소에 제안 정보 전송하는 기능을 구현하였습니다.
 
-![findPwd]
+![findPwd](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/updatePwd.gif)
 
 ✅ [12] 기타 : 
 ## 💻 개발자
