@@ -27,13 +27,13 @@
 ![E-R Diagram](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/ERwin.png)
 
 ## 📖 Issues 관리
-<img width="1516" src="https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/reg.gif">
+<img width="1516" src="https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC.png">
 
 ## 🎞 실행 화면
 
 ✅ [1] 회원가입 : 올바른생각 웹서비스를 이용하기 위한 회원가입 페이지 입니다. 실시간 폼데이터 유효성 검사 및 AJAX를 통한 이메일 중복체크 기능을 구현하였습니다. 또한 프로필 이미지를 위해 ES6 모듈을 사용하여 이미지를 삽입할 수 있게 구현했습니다.
 
-![signup]
+![signup]https://github.com/Joong-eon/AllBareun/blob/master/README.md
 
 ✅ [2] 로그인 : 여행자, 숙박업체 등록을 위한 회원가입 페이지입니다. 실시간 폼데이터 유효성 검사 및 AJAX를 통한 이메일 중복체크 기능을 구현하였습니다.
 
