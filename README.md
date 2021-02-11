@@ -37,7 +37,7 @@
 
 ✅ [2] 로그인 : 여행자, 숙박업체 등록을 위한 회원가입 페이지입니다. 실시간 폼데이터 유효성 검사 및 AJAX를 통한 이메일 중복체크 기능을 구현하였습니다.
 
-![login]
+![login](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/login.gif)
 
 ✅ [3] EMAIL 검색 : 로그인을 위한 이메일, 비밀번호 분실 시 찾을 수 있도록 검색 기능(AJAX)을 구현하였습니다.
 
