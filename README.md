@@ -41,7 +41,7 @@
 
 ✅ [3] EMAIL 검색 : 로그인을 위한 이메일, 비밀번호 분실 시 찾을 수 있도록 검색 기능(AJAX)을 구현하였습니다.
 
-![findId]
+![findId](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/findId.gif)
 
 ✅ [4] PASSWORD 수정 : 여행자가 원하는 장소, 일시, 인원, 가격 등을 제안할 경우, 해당 지역에 있는 모든 숙소에 제안 정보 전송하는 기능을 구현하였습니다.
 
