@@ -27,7 +27,7 @@
 ![E-R Diagram](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/ERwin.png)
 
 ## 📖 Issues 관리
-<img width="1516" src="https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC.png">
+<img width="1516" src="https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/reg.gif">
 
 ## 🎞 실행 화면
 
