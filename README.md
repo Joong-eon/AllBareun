@@ -47,7 +47,6 @@
 
 ![findPwd](https://github.com/cyon13/AllBareun/blob/master/src/main/resources/static/images/video/updatePwd.gif)
 
-✅ [12] 기타 : 
 ## 💻 개발자
 | <img src="https://avatars2.githubusercontent.com/u/64012038?s=400&u=c1bf92ce021077a9d78d8418315c938e797fb238&v=4" width="55" height="55"><br>[신중언](https://github.com/Joong-eon) | <img src="https://avatars.githubusercontent.com/u/35316595?s=400&v=4" width="55" height="55"><br>[구본율](https://github.com/cyon13) | <img src="https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4" width="55" height="55"><br>[김현지](https://github.com/iamhyunji) | <img src="https://avatars.githubusercontent.com/u/54495841?s=400&v=4" width="55" height="55"><br>[임혜영](https://github.com/HYEYOUNGLIM) |
 | --- | --- | --- | --- |
